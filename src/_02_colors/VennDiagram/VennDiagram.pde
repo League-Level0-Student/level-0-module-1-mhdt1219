@@ -1,1 +1,16 @@
 size(600,600);
+fill(255,0,0,100);
+ellipse(263,262,100,100);
+fill(#000000);
+textSize(12);
+text("caring",240,240);
+fill(0,255,0,100);
+ellipse(337,262,100,100);
+fill(#000000);
+textSize(12);
+text("kind",327,240);
+fill(0,0,255,100);
+ellipse(300,300,100,100);
+fill(#000000);
+textSize(12);
+text("respectful",271,330);
