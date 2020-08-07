@@ -2,7 +2,8 @@ void setup() {
     size(500, 500);
 }
 void draw() {
-    background(200, 200, 200);
+    
+    background(255,255,255);
     
     noStroke();
     fill(#FF0000);
@@ -14,7 +15,7 @@ void draw() {
     if(mousePressed) {
     noStroke();
     fill(#FFFFFF);
-    ellipse(75,212,35,35);
+    ellipse(75,200,35,35);
     
     
     }
